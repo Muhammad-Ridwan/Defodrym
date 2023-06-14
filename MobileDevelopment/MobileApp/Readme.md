@@ -1,1 +1,1 @@
-
+:: Project APP DEFODRYM FOR ANDROIDSTUDIO ::
