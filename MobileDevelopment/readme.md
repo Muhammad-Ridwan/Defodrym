@@ -1,9 +1,4 @@
-:: DEFODRYM ::
-This is an Android application project created through Android Studio using the Kotlin language.
-
 ## DEFODRYM
-
-This is an Android application project created through Android Studio using the Kotlin language.
 
 <!--This is an Android application project created through Android Studio using the Kotlin language. -->
 
