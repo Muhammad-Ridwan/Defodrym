@@ -5,7 +5,7 @@ This is an Android application project created through Android Studio using the 
 
 This is an Android application project created through Android Studio using the Kotlin language.
 
-<!-- Additional information about the project can be added here -->
+<!--This is an Android application project created through Android Studio using the Kotlin language. -->
 
 
 About Application
