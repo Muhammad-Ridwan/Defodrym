@@ -6,3 +6,6 @@ This application can identify Padang cuisine, through images that will know the 
 
 ## LINK TO DOWNLOAD THE DEFODRYM APPLICATION
 https://drive.google.com/file/d/1_aU_N3Wx0OG8WKD99HEXeDk2pCnIxxC6/view?usp=sharing
+
+## USING APPLICATION DESIGN
+<img width="557" alt="Screenshot 2023-06-15 223114" src="https://github.com/Muhammad-Ridwan/Defodrym/assets/103126797/51c7fd16-cd26-42d8-8808-73c88bfd7679">
