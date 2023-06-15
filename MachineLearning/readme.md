@@ -11,32 +11,11 @@ This repo contain's 1 model Foodictive Machine Learning. The models contain 9 cl
 - (https://www.kaggle.com/datasets/faldoae/padangfood)
 
 ## How To Use
-### Deploy to localhost 
-1. Clone the repository 
-   ```
-   git clone https://github.com/avocadojj/Defodyrm-ML.git
-   ```
-2. open terminal and move to this directory
-   ```
-   cd Defodrym-ML
-   ```
-3. Use anaconda or create virtual environment
-   ```
-   python -m venv venv
-   ```
-4. For windows, Activate virtual environment
-   ```
-   venv\Scripts\activate (windows)
-   source venv/bin/activate (Mac / Linux) 
-   ```
-5. Install the requirements
-   ```
-   python -m pip install -r requirements.txt
-   ```
-6. Run the app
-   ```
-   python app.py
-   ```
+1. Go to kaggle dataset
+2. new notebook
+3. upload object-detection.ipnyb
+4. run model
+
 ### Applied .tflite to Android
 The model in this repository is designed to run on android applications. The following is a documentation guide for using the .tflite model in android studio (We use kotlin)
 1. Do instance your model in model variable
