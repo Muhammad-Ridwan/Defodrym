@@ -14,7 +14,7 @@ Defodrym is an application that helps people discover the composition and nutrit
 | [Aziz Maulana ](https://github.com/Azizmaulana200511084) | A246DSX3162 | Mobile Development |
 | [Arif Gunawan](https://github.com/arifge03) | A246DSX3160 | Mobile Development |
 
-Documentation of our project is available on the readme.md file in our team repository based on their learning path
+Our team's project documentation based on their learning path
 ## Project Plan Document
 [Link Project Plan ](https://drive.google.com/file/d/1_AQ7knKNp0NVfKkJe5GhG-PHpi1p8VaR/view?usp=sharing)
 
