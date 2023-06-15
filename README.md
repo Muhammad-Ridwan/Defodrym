@@ -3,8 +3,9 @@
 </p>
 
 <div align="center">
-Welcome to the Official Repository of Defodrym
+  <h1 style="font-size: 36px;">Welcome to the Official Repository of Defodrym</h1>
 </div>
+
 <br>
 
 Defodrym is an app made by C23-PS364 students for Bangkit 2023 Capstone Project.
