@@ -5,7 +5,7 @@ This repo contain's 1 model Foodictive Machine Learning. The models contain 9 cl
 
 ## Our Machine Learning Team
 - M246DSX311– Muhammad Ridwan
-- M037DSY0522 – Rizka Arfie Amaliya
+- M037DSY0522 – Rizkya Arfie Amalia
 
 ## Dataset
 - (https://www.kaggle.com/datasets/faldoae/padangfood)
