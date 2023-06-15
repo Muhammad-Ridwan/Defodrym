@@ -16,7 +16,7 @@ Defodrym is an application that helps people discover the composition and nutrit
 
 Documentation of our project is available on the readme.md file in our team repository based on their learning path
 ## Project Plan Document
-https://drive.google.com/file/d/1_AQ7knKNp0NVfKkJe5GhG-PHpi1p8VaR/view?usp=sharing
+[Link Project Plant](https://drive.google.com/file/d/1_AQ7knKNp0NVfKkJe5GhG-PHpi1p8VaR/view?usp=sharing)
 
 ## Mobile Development Repository (Foddictive App)
 [Link Mobile Development](https://github.com/Muhammad-Ridwan/Defodrym/tree/main/MobileDevelopment)
