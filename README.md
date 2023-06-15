@@ -2,7 +2,10 @@
   <img src="https://github.com/Muhammad-Ridwan/Defodrym/assets/103126797/01c83b05-b525-46b1-8bf6-148ba3025f6f">
 </p>
 
+<div align="center">
 # Welcome to the Official Repository of Defodrym
+</div>
+
 Defodrym is an app made by C23-PS364 students for Bangkit 2023 Capstone Project.
 Defodrym is an application that helps people discover the composition and nutritional content of food and beverages by capturing images through the camera or gallery. These images are then analyzed, providing detailed information about the uploaded pictures within the Defodrym application. Moreover, users can also find recommendations for places based on the identified food. 
 
