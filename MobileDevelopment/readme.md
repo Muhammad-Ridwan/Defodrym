@@ -14,3 +14,7 @@ This application can identify Padang cuisine, through images that will know the 
 
 ## FLOW APPLICATIONS
 https://github.com/Muhammad-Ridwan/Defodrym/assets/103126797/828e1a58-fb48-4da4-a68a-6bf1834be15e
+<div align="center">
+  <img src="https://github.com/Muhammad-Ridwan/Defodrym/assets/103126797/828e1a58-fb48-4da4-a68a-6bf1834be15e" alt="Video" width="800">
+</div>
+
