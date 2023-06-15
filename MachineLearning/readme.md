@@ -12,9 +12,9 @@ This repo contain's 1 model Foodictive Machine Learning. The models contain 9 cl
 
 ## How To Use
 1. Go to kaggle dataset
-2. new notebook
-3. upload object-detection.ipnyb
-4. run model
+2. New notebook
+3. Upload object-detection.ipnyb
+4. Run the model
 
 ### Applied .tflite to Android
 The model in this repository is designed to run on android applications. The following is a documentation guide for using the .tflite model in android studio (We use kotlin)
