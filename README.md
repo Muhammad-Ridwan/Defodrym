@@ -9,14 +9,19 @@ Defodrym is an application that helps people discover the composition and nutrit
 ## Team Members:
 **Team ID:** C23-PS364
 
-| Name        | Student ID           | Learning Path  |
-| ------------- |:-------------:| -----:|
-| [Muhammad Ridwan](https://github.com/Muhammad-Ridwan) |  M246DSX311 |  Machine Learning |
-| [Rizka Arfie Amaliya](https://github.com/) | M037DSY0522 |  Machine Learning |
-| [Ubaedillah Rohman](https://github.com/kacung110) | C168DSX2221 | Cloud Computing |
-| [Afiq Mustofa](https://github.com/afiqmustofa) |  C252DSX1625 | Cloud Computing |
-| [Aziz Maulana ](https://github.com/Azizmaulana200511084) | A246DSX3162 | Mobile Development |
-| [Arif Gunawan](https://github.com/arifge03) | A246DSX3160 | Mobile Development |
+<div align="center">
+
+| Name                                                 | Student ID    | Learning Path        |
+| ---------------------------------------------------- | ------------- | -------------------- |
+| [Muhammad Ridwan](https://github.com/Muhammad-Ridwan) | M246DSX311    | Machine Learning     |
+| [Rizka Arfie Amaliya](https://github.com/)            | M037DSY0522   | Machine Learning     |
+| [Ubaedillah Rohman](https://github.com/kacung110)     | C168DSX2221   | Cloud Computing      |
+| [Afiq Mustofa](https://github.com/afiqmustofa)        | C252DSX1625   | Cloud Computing      |
+| [Aziz Maulana ](https://github.com/Azizmaulana200511084) | A246DSX3162 | Mobile Development   |
+| [Arif Gunawan](https://github.com/arifge03)           | A246DSX3160   | Mobile Development   |
+
+</div>
+
 
 Our team's project documentation based on their learning path
 ## Project Plan Document
