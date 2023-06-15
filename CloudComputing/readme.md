@@ -1,10 +1,10 @@
 ## :: PROJECT API USING HAPI JS AND APPLICATION FOR TESTING DATABASE ::
 
 ## API 
-https://sunlit-standard-386903.et.r.appspot.com//getfooddetails/
+https://sunlit-standard-386903.et.r.appspot.com/getfooddetails/
 
 ## API TO CHECK FRIED CHICKEN DATA WITH UTF-8
-https://sunlit-standard-386903.et.r.appspot.com//getfooddetails/ayam%20goreng
+https://sunlit-standard-386903.et.r.appspot.com/getfooddetails/ayam%20goreng
 
 ## RESULT FROM JSON
 {
