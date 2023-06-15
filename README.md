@@ -18,7 +18,7 @@ Documentation of our project is available on the readme.md file in our team repo
 ## Project Plan Document
 [Link Project Plan ](https://drive.google.com/file/d/1_AQ7knKNp0NVfKkJe5GhG-PHpi1p8VaR/view?usp=sharing)
 
-## Mobile Development Repository (DEFODRYM PROJECT APP)
+## Mobile Development (Defodrym For Kotlin)
 [Link Mobile Development](https://github.com/Muhammad-Ridwan/Defodrym/tree/main/MobileDevelopment)
 
 ## Cloud Computing Repository (API & Website)
