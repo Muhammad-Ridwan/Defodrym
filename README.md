@@ -19,16 +19,16 @@ Documentation of our project is available on the readme.md file in our team repo
 https://drive.google.com/file/d/1_AQ7knKNp0NVfKkJe5GhG-PHpi1p8VaR/view?usp=sharing
 
 ## Mobile Development Repository (Foddictive App)
-
+[Link Mobile Development](https://github.com/Muhammad-Ridwan/Defodrym/tree/main/MobileDevelopment)
 
 ## Cloud Computing Repository (API & Website)
- 
-<br />
+[Link Cloud Computing](https://github.com/Muhammad-Ridwan/Defodrym/tree/main/CloudComputing)
 
 ## Machine Learning | (Machine Learning Model)
+[Link Machine Learning](https://github.com/Muhammad-Ridwan/Defodrym/tree/main/MachineLearning)
 
 ## Logo Design
-https://www.figma.com/file/F8nH9xO6IKJoldM10vWcBD/defodrym?type=design&node-id=1%3A5&t=OSCVbbq2RgJdnKrB-1
+[Link Logo Deign](https://www.figma.com/file/F8nH9xO6IKJoldM10vWcBD/defodrym?type=design&node-id=1%3A5&t=OSCVbbq2RgJdnKrB-1)
 
 ## App Design
-https://www.figma.com/file/F8nH9xO6IKJoldM10vWcBD/defodrym?type=design&node-id=0%3A1&t=OSCVbbq2RgJdnKrB-1
+[Link APP Deign](https://www.figma.com/file/F8nH9xO6IKJoldM10vWcBD/defodrym?type=design&node-id=0%3A1&t=OSCVbbq2RgJdnKrB-1)
