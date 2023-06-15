@@ -48,4 +48,4 @@ Our team's project documentation based on their learning path
 [Link APP Deign](https://www.figma.com/file/F8nH9xO6IKJoldM10vWcBD/defodrym?type=design&node-id=0%3A1&t=OSCVbbq2RgJdnKrB-1)
 
 ## Download App Defodrym
-[:: PLEASE DOWNLOAD THE APPLICATION HERE ::](https://drive.google.com/file/d/1_aU_N3Wx0OG8WKD99HEXeDk2pCnIxxC6/view?usp=drive_link)
+[:: PLEASE DOWNLOAD THE APPLICATION HERE ::](https://drive.google.com/file/d/1fc_EYuyDerCrBccawN7JLLl4l5FcGQTN/view?usp=sharing)
