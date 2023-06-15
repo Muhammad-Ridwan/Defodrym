@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Defodrym</string>
+    <string name="app_name1">defodrym</string>
+    <string name="foodname">Please wait for the name of the food…</string>
+    <string name="google_maps_key">AIzaSyDUO9LYsZAJ8n8AQApIYGRkHp0EVg8R4uY</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="pls">Please Wait…</string>
+    <string name="pls1">Please wait for the data to be processed…</string>
+    <string name="Identify">Identify</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Camera">Camera</string>
+    <string name="refresh">Refresh Perkiraan Makanan</string>
+    <string name="defodrym">https://sunlit-standard-386903.et.r.appspot.com/getfooddetails/</string>
+</resources>
