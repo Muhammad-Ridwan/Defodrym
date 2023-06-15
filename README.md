@@ -1,4 +1,6 @@
-![Group 2](https://github.com/Muhammad-Ridwan/Defodrym/assets/103126797/01c83b05-b525-46b1-8bf6-148ba3025f6f)
+<p align="center">
+  <img src="https://github.com/Muhammad-Ridwan/Defodrym/assets/103126797/01c83b05-b525-46b1-8bf6-148ba3025f6f">
+</p>
 
 # Welcome to the Official Repository of Defodrym
 Defodrym is an app made by C23-PS364 students for Bangkit 2023 Capstone Project.
