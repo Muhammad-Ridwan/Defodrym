@@ -1,5 +1,9 @@
 # Defodrym - Machine Learning Notebook
- 
+
+## System Requirement
+Working on: Kaggle notebook
+Tensorflow: 2.12.0
+
 ## Introduction
 This repo contain's 1 model Foodictive Machine Learning. The models contain 9 classes of food.
 
