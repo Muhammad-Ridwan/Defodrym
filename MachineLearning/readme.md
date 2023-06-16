@@ -5,7 +5,7 @@
 - Tensorflow: 2.12.0
 
 ## Introduction
-This repo contain's 1 model Foodictive Machine Learning. The models contain 9 classes of food.
+This repo contain's 1 model Defodrym Machine Learning. The models contain 9 classes of food.
 
 ## Our Machine Learning Team
 - M246DSX311– Muhammad Ridwan
