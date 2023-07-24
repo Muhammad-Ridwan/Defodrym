@@ -4,7 +4,7 @@ const food = [
         idfood: "32201",
         foodname: "ayam goreng",
         description:
-            'Ayam goreng is an Indonesian and Malaysian dish consisting of chicken deep fried in oil. Ayam goreng literally means "fried chicken" in Malay, Indonesian and also in many Indonesian regional languages (e.g. Javanese).',
+            'Ayam goreng is an Indonesian and Malaysian dish consisting of chicken deep fried in oil. Ayam goreng literally means "fried chicken" in Malaysian, Indonesian and also in many Indonesian regional languages (e.g. Javanese).',
         ingredients:
             "1 chicken (about 3 pounds),\n cut into 8 pieces,\n 1 1/2 teaspoons salt,\n 1 1/2 cups flour,\n 1 teaspoon ground pepper,\n vegetable oil",
     },
